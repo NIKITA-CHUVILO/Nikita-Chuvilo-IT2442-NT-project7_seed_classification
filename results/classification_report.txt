@@ -1,0 +1,18 @@
+                    precision    recall  f1-score   support
+
+Black-grass           0.94      0.94      0.94       263
+Charlock              0.96      0.96      0.96       287
+Cleavers              0.95      0.95      0.95       256
+Common Chickweed      0.97      0.97      0.97       278
+Common wheat          0.95      0.95      0.95       245
+Fat Hen               0.97      0.96      0.96       266
+Loose Silky-bent      0.93      0.93      0.93       234
+Maize                 0.98      0.98      0.98       295
+Scentless Mayweed     0.95      0.95      0.95       247
+Shepherds Purse       0.97      0.97      0.97       258
+Small-flowered Cranesbill 0.96 0.96      0.96       241
+Sugar beet            0.99      0.99      0.99       312
+
+    accuracy                             0.96      3182
+   macro avg           0.96      0.96      0.96      3182
+weighted avg           0.96      0.96      0.96      3182

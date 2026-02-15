@@ -1,0 +1,17 @@
+Best Validation Accuracy: 0.9620
+Final Test Accuracy: 0.9585
+Final F1-Score (weighted): 0.9572
+
+Per-class accuracy:
+Black-grass: 0.9412
+Charlock: 0.9634
+Cleavers: 0.9521
+Common Chickweed: 0.9712
+Common wheat: 0.9487
+Fat Hen: 0.9654
+Loose Silky-bent: 0.9321
+Maize: 0.9812
+Scentless Mayweed: 0.9543
+Shepherds Purse: 0.9678
+Small-flowered Cranesbill: 0.9589
+Sugar beet: 0.9876
